@@ -1,6 +1,6 @@
-# OpenFront.io
+# deonet.org
 
-OpenFront is an online rts.
+OblivionRTS is an online rts.
 
 This is a fork/rewrite of WarFront.io. Credit to https://github.com/WarFrontIO.
 
