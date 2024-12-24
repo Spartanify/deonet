@@ -1,6 +1,7 @@
 {
   "name": "openfront-client",
   "scripts": {
+    "build": "webpack --mode production",
     "build-map": "node --loader ts-node/esm --experimental-specifier-resolution=node src/scripts/TerrainMapGenerator.ts",
     "build-dev": "webpack --config webpack.config.js --mode development",
     "build-prod": "webpack --config webpack.config.js --mode production",
