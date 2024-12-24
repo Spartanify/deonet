@@ -1,0 +1,359 @@
+{
+    "name": "World",
+    "width": 2000,
+    "height": 1000,
+    "nations": [
+        {
+            "coordinates": [
+                375,
+                272
+            ],
+            "name": "USA 🇺🇸",
+            "strength": 3
+        },
+        {
+            "coordinates": [
+                372,
+                136
+            ],
+            "name": "Canada 🇨🇦",
+            "strength": 2
+        },
+        {
+            "coordinates": [
+                375,
+                374
+            ],
+            "name": "Mexico 🇲🇽",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                500,
+                378
+            ],
+            "name": "Cuba 🇨🇺",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                524,
+                474
+            ],
+            "name": "Columbia 🇨🇴",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                593,
+                473
+            ],
+            "name": "Venezuela 🇻🇪",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                596,
+                705
+            ],
+            "name": "Argentina 🇦🇷",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                637,
+                567
+            ],
+            "name": "Brazil 🇧🇷",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                1280,
+                975
+            ],
+            "name": "Antartica 🇦🇶",
+            "strength": 3
+        },
+        {
+            "coordinates": [
+                709,
+                57
+            ],
+            "name": "Greenland 🇬🇱",
+            "strength": 2
+        },
+        {
+            "coordinates": [
+                831,
+                112
+            ],
+            "name": "Iceland 🇮🇸",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                925,
+                186
+            ],
+            "name": "England 🇬🇧",
+            "strength": 3
+        },
+        {
+            "coordinates": [
+                887,
+                183
+            ],
+            "name": "Ireland 🇮🇪",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                908,
+                264
+            ],
+            "name": "Spain 🇪🇸",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                1004,
+                250
+            ],
+            "name": "Italy 🇮🇹",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                958,
+                220
+            ],
+            "name": "France 🇫🇷",
+            "strength": 2
+        },
+        {
+            "coordinates": [
+                997,
+                205
+            ],
+            "name": "Germany 🇩🇪",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                1064,
+                101
+            ],
+            "name": "Sweden 🇸🇪",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                1046,
+                193
+            ],
+            "name": "Poland 🇵🇱",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                1061,
+                188
+            ],
+            "name": "Belarus 🇧🇾",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                1073,
+                243
+            ],
+            "name": "Romania 🇷🇴",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                1161,
+                274
+            ],
+            "name": "Turkiye 🇹🇷",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                969,
+                133
+            ],
+            "name": "Norway 🇳🇴",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                1062,
+                133
+            ],
+            "name": "Finland 🇫🇮",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                1099,
+                211
+            ],
+            "name": "Ukraine 🇺🇦",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                1344,
+                136
+            ],
+            "name": "Russia 🇷🇺",
+            "strength": 3
+        },
+        {
+            "coordinates": [
+                1537,
+                186
+            ],
+            "name": "Mongolia 🇲🇳",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                1524,
+                328
+            ],
+            "name": "China 🇨🇳",
+            "strength": 3
+        },
+        {
+            "coordinates": [
+                1368,
+                373
+            ],
+            "name": "India 🇮🇳",
+            "strength": 2
+        },
+        {
+            "coordinates": [
+                1276,
+                239
+            ],
+            "name": "Kazakhstan 🇰🇿",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                1238,
+                309
+            ],
+            "name": "Iran 🇮🇷",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                1178,
+                351
+            ],
+            "name": "Saudi Arabia 🇸🇦",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                1679,
+                657
+            ],
+            "name": "Australia 🇦🇺",
+            "strength": 2
+        },
+        {
+            "coordinates": [
+                1890,
+                775
+            ],
+            "name": "New Zealand 🇳🇿",
+            "strength": 0.5
+        },
+        {
+            "coordinates": [
+                918,
+                342
+            ],
+            "name": "Algeria 🇩🇿",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                1030,
+                332
+            ],
+            "name": "Libya 🇱🇾",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                1092,
+                335
+            ],
+            "name": "Egypt 🇪🇬",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                963,
+                410
+            ],
+            "name": "Niger 🇳🇪",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                1112,
+                406
+            ],
+            "name": "Sudan 🇸🇩",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                1074,
+                508
+            ],
+            "name": "DRC 🇨🇩",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                1154,
+                443
+            ],
+            "name": "Ethiopia 🇪🇹",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                1075,
+                707
+            ],
+            "name": "South Africa 🇿🇦",
+            "strength": 1
+        },
+        {
+            "coordinates": [
+                1194,
+                627
+            ],
+            "name": "Madagascar 🇲🇬",
+            "strength": 0.5
+        },
+        {
+            "coordinates": [
+                1052,
+                420
+            ],
+            "name": "Chad 🇹🇩",
+            "strength": 1
+        }
+    ]
+}
